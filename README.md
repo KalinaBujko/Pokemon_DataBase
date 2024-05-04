@@ -1,2 +1,2 @@
 # Pokemon_DataBase
-This is my Pokemon data base made in SQL Microsoft Studio.
+Hi, this is my pokemon data base and some queries. 
